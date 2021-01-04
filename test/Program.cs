@@ -10,7 +10,8 @@ namespace test
     {
         static void Main(string[] args)
         {
-            fgerzvenvk
+
+            Console.WriteLine();
 
         }
     }
